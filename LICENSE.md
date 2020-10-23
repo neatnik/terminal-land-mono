@@ -1,4 +1,4 @@
-Copyright (c) 2020, Neatnik LLC (https://neatnik.net), with Reserved Font Names Terminal Land Mono and Terminal Land Mono Sans
+Copyright (c) 2020, Neatnik LLC (https://neatnik.net), with Reserved Font Names Terminal Land and Terminal Land Sans
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
