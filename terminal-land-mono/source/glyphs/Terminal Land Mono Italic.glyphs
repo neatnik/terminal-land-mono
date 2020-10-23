@@ -1,30 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-"/fraction///backslash/divisionslash |\012///space/backslash/space 1/divisionslash 2\0121//2/space 1/backslash 2/space 1FOOD/space 1/divisionslash 2",
-"N/Nacute/Ncaron/Ncommaaccent/Eng ÑOÓ/Obreve ÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scircumflex/Scommaaccent T/Tbar/Tcaron/Tcedilla/Tcommaaccent",
-"hhnn/fi hnn/fl hfhh/idotless ihfhlh\012nn/fi/space n/fl nfnnfninln\012nnmnomoo/space a/fi no/space/fi orella/space \012/fi ligrana/space/fi rme/space a/fi na\012nnwnowoo/space afina",
-"nno-no/hyphen.alt pre­exis/endash/emdash",
-"'",
-"µ",
-"/second/circumflex",
-"1/minute 2/second",
-"/second",
-"/bar.double",
-"/Dcroat E",
-"/summation",
-"/commaaccentcomb/commaaccentcomb.case",
-"/perthousand/lozenge @&¶§©®/trademark °/minute/second |¦/dagger/daggerdbl/bar.double/commaaccentcomb/commaaccentcomb.case",
-"130%/space 45/perthousand",
-"nfnnlnn/fl nn/fi nfnin\012inflamable\012in/fl amable\012infinito\012in/fi nnito",
-"/fi/fl",
-"/NULL",
-"12/divisionslash 24",
-"\015",
-"]_[",
-"/.notdef []///backslash",
-noHoeA
-);
 classes = (
 {
 automatic = 1;
@@ -3574,7 +3549,7 @@ unicode = 002F;
 },
 {
 glyphname = zero;
-lastChange = "2015-03-19 03:44:26 +0000";
+lastChange = "2020-10-23 15:28:58 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -3611,6 +3586,15 @@ nodes = (
 "419 657 OFFCURVE",
 "506 982 OFFCURVE",
 "717 982 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"297 398 LINE",
+"380 204 LINE",
+"1021 807 LINE",
+"954 1017 LINE"
 );
 }
 );
@@ -3651,6 +3635,15 @@ nodes = (
 "365 703 OFFCURVE",
 "497 1061 OFFCURVE",
 "731 1061 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"275 355 LINE",
+"336 173 LINE",
+"1013 822 LINE",
+"969 1020 LINE"
 );
 }
 );
