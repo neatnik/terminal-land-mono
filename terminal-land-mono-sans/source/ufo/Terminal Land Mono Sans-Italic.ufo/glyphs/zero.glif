@@ -31,5 +31,11 @@
 			<point x="363" y="703"/>
 			<point x="497" y="1061"/>
 		</contour>
+		<contour>
+			<point x="957" y="981" type="line"/>
+			<point x="298" y="349" type="line"/>
+			<point x="345" y="209" type="line"/>
+			<point x="991" y="829" type="line"/>
+		</contour>
 	</outline>
 </glyph>

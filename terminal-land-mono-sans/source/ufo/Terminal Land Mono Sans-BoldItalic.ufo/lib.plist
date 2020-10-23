@@ -44,6 +44,13 @@
 			<integer>-220</integer>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSOffsetHorizontal</key>
+		<integer>20</integer>
+		<key>GSOffsetVertical</key>
+		<integer>20</integer>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>0791FDB8-5A5D-41D7-9039-1C27D6F382A7</string>
 	<key>com.schriftgestaltung.glyphOrder</key>

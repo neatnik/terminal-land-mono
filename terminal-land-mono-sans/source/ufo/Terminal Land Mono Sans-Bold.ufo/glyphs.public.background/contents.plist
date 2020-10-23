@@ -102,5 +102,7 @@
 	<string>y.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
 </dict>
 </plist>

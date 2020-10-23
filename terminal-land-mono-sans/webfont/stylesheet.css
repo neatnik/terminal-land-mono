@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Terminal Land Mono Sans';
-    src: url('TerminalLandMonoSans-Regular.woff2') format('woff2');
-    font-weight: normal;
+    src: url('TerminalLandMonoSans-Bold.woff2') format('woff2');
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Terminal Land Mono Sans';
-    src: url('TerminalLandMonoSans-BoldItalic.woff2') format('woff2');
-    font-weight: bold;
-    font-style: italic;
+    src: url('TerminalLandMonoSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
     font-display: swap;
 }
 
@@ -24,9 +24,9 @@
 
 @font-face {
     font-family: 'Terminal Land Mono Sans';
-    src: url('TerminalLandMonoSans-Bold.woff2') format('woff2');
+    src: url('TerminalLandMonoSans-BoldItalic.woff2') format('woff2');
     font-weight: bold;
-    font-style: normal;
+    font-style: italic;
     font-display: swap;
 }
 

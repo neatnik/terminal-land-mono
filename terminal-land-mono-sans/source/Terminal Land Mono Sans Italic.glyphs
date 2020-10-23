@@ -1,5 +1,8 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"0"
+);
 classes = (
 {
 automatic = 1;
@@ -125,6 +128,10 @@ position = "{-250, -388}";
 );
 id = UUID0;
 italicAngle = 10;
+userData = {
+GSOffsetHorizontal = 20;
+GSOffsetVertical = 20;
+};
 weightValue = 150;
 xHeight = 924;
 },
@@ -183,6 +190,10 @@ position = "{48, 1312}";
 );
 id = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
 italicAngle = 10;
+userData = {
+GSOffsetHorizontal = 20;
+GSOffsetVertical = 20;
+};
 weight = Bold;
 weightValue = 250;
 xHeight = 924;
@@ -19323,7 +19334,7 @@ unicode = 03C0;
 },
 {
 glyphname = zero;
-lastChange = "2014-11-15 09:26:08 +0000";
+lastChange = "2020-10-23 05:59:09 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -19360,6 +19371,15 @@ nodes = (
 "363 703 OFFCURVE",
 "497 1061 OFFCURVE",
 "731 1061 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"298 349 LINE",
+"345 209 LINE",
+"991 829 LINE",
+"957 981 LINE"
 );
 }
 );
@@ -19450,6 +19470,15 @@ nodes = (
 "416 653 OFFCURVE",
 "506 972 OFFCURVE",
 "717 972 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"275 355 LINE",
+"336 173 LINE",
+"1013 822 LINE",
+"969 1020 LINE"
 );
 }
 );
