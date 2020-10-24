@@ -391,6 +391,7 @@
 		<string>guilsinglright</string>
 		<string>quotedbl</string>
 		<string>quotesingle</string>
+		<string>emspace</string>
 		<string>space</string>
 		<string>nbspace</string>
 		<string>cent</string>
@@ -425,6 +426,37 @@
 		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
+		<string>uni2581</string>
+		<string>uni2582</string>
+		<string>uni2583</string>
+		<string>dnblock</string>
+		<string>uni2585</string>
+		<string>uni2586</string>
+		<string>uni2587</string>
+		<string>block</string>
+		<string>upblock</string>
+		<string>uni2594</string>
+		<string>uni258F</string>
+		<string>uni258E</string>
+		<string>uni258D</string>
+		<string>lfblock</string>
+		<string>uni258B</string>
+		<string>uni258A</string>
+		<string>uni2589</string>
+		<string>uni2595</string>
+		<string>uni2596</string>
+		<string>uni2597</string>
+		<string>uni2598</string>
+		<string>uni2599</string>
+		<string>uni259A</string>
+		<string>uni259B</string>
+		<string>uni259C</string>
+		<string>uni259D</string>
+		<string>uni259E</string>
+		<string>uni259F</string>
+		<string>ltshade</string>
+		<string>shade</string>
+		<string>dkshade</string>
 		<string>lozenge</string>
 		<string>at</string>
 		<string>ampersand</string>
@@ -498,6 +530,8 @@
 		<string>uni0326.case</string>
 		<key>dotlessj</key>
 		<string>uni0237</string>
+		<key>emspace</key>
+		<string>uni2003</string>
 		<key>euro</key>
 		<string>Euro</string>
 		<key>foursuperior</key>
