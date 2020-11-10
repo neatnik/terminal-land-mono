@@ -462,10 +462,10 @@
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
+	<key>external-link</key>
+	<string>external-link.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
-	<key>f08e</key>
-	<string>f08e.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
 	<key>five</key>

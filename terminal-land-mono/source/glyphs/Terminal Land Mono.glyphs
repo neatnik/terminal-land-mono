@@ -36845,8 +36845,8 @@ width = 1228;
 );
 },
 {
-glyphname = f08e;
-lastChange = "2020-11-10 07:33:07 +0000";
+glyphname = "external-link";
+lastChange = "2020-11-10 07:48:04 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -37021,6 +37021,7 @@ nodes = (
 width = 1200;
 }
 );
+unicode = F08E;
 }
 );
 instances = (

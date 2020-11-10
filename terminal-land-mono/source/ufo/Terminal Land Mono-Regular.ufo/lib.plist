@@ -2321,7 +2321,7 @@
 		<string>cedilla.case</string>
 		<string>ogonek.case</string>
 		<string>NULL</string>
-		<string>f08e</string>
+		<string>external-link</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict>
@@ -2359,6 +2359,8 @@
 		<string>uni2003</string>
 		<key>euro</key>
 		<string>Euro</string>
+		<key>external-link</key>
+		<string>uniF08E</string>
 		<key>foursuperior</key>
 		<string>uni2074</string>
 		<key>gcommaaccent</key>
