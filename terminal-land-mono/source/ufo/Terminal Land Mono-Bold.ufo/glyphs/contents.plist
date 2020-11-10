@@ -366,6 +366,8 @@
 	<string>commaaccentcomb.case.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>crown</key>
+	<string>crown.glif</string>
 	<key>currency</key>
 	<string>currency.glif</string>
 	<key>d</key>
@@ -462,6 +464,8 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>f08e</key>
+	<string>f08e.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
 	<key>five</key>
