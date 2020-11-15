@@ -12,16 +12,25 @@
 			<key>value</key>
 			<true/>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Enforce Compatibility Check</string>
+			<key>value</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Use Typo Metrics</string>
+			<key>value</key>
+			<true/>
+		</dict>
 	</array>
 	<key>com.schriftgestaltung.font.userData</key>
 	<dict>
 		<key>GSDimensionPlugin.Dimensions</key>
 		<dict>
 			<key>222D0B97-E2BD-4249-A584-FAB7D66A0D71</key>
-			<dict>
-				<key>HV</key>
-				<integer>72</integer>
-			</dict>
+			<dict/>
 			<key>UUID0</key>
 			<dict/>
 		</dict>
@@ -227,7 +236,7 @@
 		<string>hbar</string>
 		<string>hcircumflex</string>
 		<string>i</string>
-		<string>dotlessi</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>ibreve</string>
 		<string>icircumflex</string>
@@ -426,39 +435,40 @@
 		<string>summation</string>
 		<string>radical</string>
 		<string>partialdiff</string>
+		<string>micro</string>
 		<string>percent</string>
 		<string>perthousand</string>
-		<string>uni2581</string>
-		<string>uni2582</string>
-		<string>uni2583</string>
-		<string>dnblock</string>
-		<string>uni2585</string>
-		<string>uni2586</string>
-		<string>uni2587</string>
-		<string>block</string>
-		<string>upblock</string>
-		<string>uni2594</string>
-		<string>uni258F</string>
-		<string>uni258E</string>
-		<string>uni258D</string>
-		<string>lfblock</string>
-		<string>uni258B</string>
-		<string>uni258A</string>
-		<string>uni2589</string>
-		<string>uni2595</string>
-		<string>uni2596</string>
-		<string>uni2597</string>
-		<string>uni2598</string>
-		<string>uni2599</string>
-		<string>uni259A</string>
-		<string>uni259B</string>
-		<string>uni259C</string>
-		<string>uni259D</string>
-		<string>uni259E</string>
-		<string>uni259F</string>
-		<string>ltshade</string>
-		<string>shade</string>
-		<string>dkshade</string>
+		<string>lowerOneEighthBlock</string>
+		<string>lowerOneQuarterBlock</string>
+		<string>lowerThreeEighthsBlock</string>
+		<string>lowerHalfBlock</string>
+		<string>lowerFiveEighthsBlock</string>
+		<string>lowerThreeQuartersBlock</string>
+		<string>lowerSevenEighthsBlock</string>
+		<string>fullBlock</string>
+		<string>upperHalfBlock</string>
+		<string>upperOneEighthBlock</string>
+		<string>leftOneEighthBlock</string>
+		<string>leftOneQuarterBlock</string>
+		<string>leftThreeEighthsBlock</string>
+		<string>leftBlock</string>
+		<string>leftFiveEighthsBlock</string>
+		<string>leftThreeQuartersBlock</string>
+		<string>leftSevenEighthsBlock</string>
+		<string>rightOneEighthBlock</string>
+		<string>lowerLeftBlock</string>
+		<string>lowerRightBlock</string>
+		<string>upperLeftBlock</string>
+		<string>upperLeftAndLowerLeftAndLowerRightBlock</string>
+		<string>upperLeftAndLowerRightBlock</string>
+		<string>upperLeftAndUpperRightAndLowerLeftBlock</string>
+		<string>upperLeftAndUpperRightAndLowerRightBlock</string>
+		<string>upperRightBlock</string>
+		<string>upperRightAndLowerLeftBlock</string>
+		<string>upperRightAndLowerLeftAndLowerRightBlock</string>
+		<string>shadelight</string>
+		<string>shademedium</string>
+		<string>shadedark</string>
 		<string>lozenge</string>
 		<string>at</string>
 		<string>ampersand</string>
@@ -474,6 +484,7 @@
 		<string>brokenbar</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
+		<string>crown</string>
 		<string>commaaccent</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
@@ -503,6 +514,10 @@
 		<string>macron.case</string>
 		<string>cedilla.case</string>
 		<string>ogonek.case</string>
+		<string>play</string>
+		<string>pause</string>
+		<string>external-link</string>
+		<string>circle-solid</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict>
@@ -526,18 +541,26 @@
 		<string>uni0162</string>
 		<key>Tcommaaccent</key>
 		<string>uni021A</string>
+		<key>circle-solid</key>
+		<string>uniF111</string>
 		<key>commaaccent</key>
 		<string>uni0326</string>
 		<key>commaaccent.case</key>
 		<string>uni0326.case</string>
+		<key>crown</key>
+		<string>u1F451</string>
 		<key>dotlessj</key>
 		<string>uni0237</string>
 		<key>emspace</key>
 		<string>uni2003</string>
 		<key>euro</key>
 		<string>Euro</string>
+		<key>external-link</key>
+		<string>uniF08E</string>
 		<key>foursuperior</key>
 		<string>uni2074</string>
+		<key>fullBlock</key>
+		<string>block</string>
 		<key>gcommaaccent</key>
 		<string>uni0123</string>
 		<key>guillemetleft</key>
@@ -546,10 +569,46 @@
 		<string>guillemotright</string>
 		<key>idotaccent</key>
 		<string>i.loclTRK</string>
+		<key>idotless</key>
+		<string>dotlessi</string>
 		<key>kcommaaccent</key>
 		<string>uni0137</string>
 		<key>lcommaaccent</key>
 		<string>uni013C</string>
+		<key>leftBlock</key>
+		<string>lfblock</string>
+		<key>leftFiveEighthsBlock</key>
+		<string>uni258B</string>
+		<key>leftOneEighthBlock</key>
+		<string>uni258F</string>
+		<key>leftOneQuarterBlock</key>
+		<string>uni258E</string>
+		<key>leftSevenEighthsBlock</key>
+		<string>uni2589</string>
+		<key>leftThreeEighthsBlock</key>
+		<string>uni258D</string>
+		<key>leftThreeQuartersBlock</key>
+		<string>uni258A</string>
+		<key>lowerFiveEighthsBlock</key>
+		<string>uni2585</string>
+		<key>lowerHalfBlock</key>
+		<string>dnblock</string>
+		<key>lowerLeftBlock</key>
+		<string>uni2596</string>
+		<key>lowerOneEighthBlock</key>
+		<string>uni2581</string>
+		<key>lowerOneQuarterBlock</key>
+		<string>uni2582</string>
+		<key>lowerRightBlock</key>
+		<string>uni2597</string>
+		<key>lowerSevenEighthsBlock</key>
+		<string>uni2587</string>
+		<key>lowerThreeEighthsBlock</key>
+		<string>uni2583</string>
+		<key>lowerThreeQuartersBlock</key>
+		<string>uni2586</string>
+		<key>micro</key>
+		<string>uni00B5</string>
 		<key>mu</key>
 		<string>uni03BC</string>
 		<key>nbspace</key>
@@ -560,10 +619,22 @@
 		<string>uni2011</string>
 		<key>onesuperior</key>
 		<string>uni00B9</string>
+		<key>pause</key>
+		<string>uniF04C</string>
+		<key>play</key>
+		<string>uniF04B</string>
 		<key>rcommaaccent</key>
 		<string>uni0157</string>
+		<key>rightOneEighthBlock</key>
+		<string>uni2595</string>
 		<key>scommaaccent</key>
 		<string>uni0219</string>
+		<key>shadedark</key>
+		<string>dkshade</string>
+		<key>shadelight</key>
+		<string>ltshade</string>
+		<key>shademedium</key>
+		<string>shade</string>
 		<key>softhyphen</key>
 		<string>uni00AD</string>
 		<key>tcedilla</key>
@@ -574,6 +645,26 @@
 		<string>uni00B3</string>
 		<key>twosuperior</key>
 		<string>uni00B2</string>
+		<key>upperHalfBlock</key>
+		<string>upblock</string>
+		<key>upperLeftAndLowerLeftAndLowerRightBlock</key>
+		<string>uni2599</string>
+		<key>upperLeftAndLowerRightBlock</key>
+		<string>uni259A</string>
+		<key>upperLeftAndUpperRightAndLowerLeftBlock</key>
+		<string>uni259B</string>
+		<key>upperLeftAndUpperRightAndLowerRightBlock</key>
+		<string>uni259C</string>
+		<key>upperLeftBlock</key>
+		<string>uni2598</string>
+		<key>upperOneEighthBlock</key>
+		<string>uni2594</string>
+		<key>upperRightAndLowerLeftAndLowerRightBlock</key>
+		<string>uni259F</string>
+		<key>upperRightAndLowerLeftBlock</key>
+		<string>uni259E</string>
+		<key>upperRightBlock</key>
+		<string>uni259D</string>
 		<key>won</key>
 		<string>uni20A9</string>
 	</dict>

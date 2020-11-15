@@ -300,8 +300,6 @@
 	<string>backslash.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
-	<key>block</key>
-	<string>block.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -342,6 +340,8 @@
 	<string>cedilla.case.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>circle-solid</key>
+	<string>circle-solid.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflex.case</key>
@@ -360,6 +360,8 @@
 	<string>commaaccent.case.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>crown</key>
+	<string>crown.glif</string>
 	<key>currency</key>
 	<string>currency.glif</string>
 	<key>d</key>
@@ -380,18 +382,12 @@
 	<string>dieresis.case.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
-	<key>dkshade</key>
-	<string>dkshade.glif</string>
-	<key>dnblock</key>
-	<string>dnblock.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
 	<key>dotaccent.case</key>
 	<string>dotaccent.case.glif</string>
-	<key>dotlessi</key>
-	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
 	<string>dotlessj.glif</string>
 	<key>e</key>
@@ -454,6 +450,8 @@
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
+	<key>external-link</key>
+	<string>external-link.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>fi</key>
@@ -472,6 +470,8 @@
 	<string>fraction.glif</string>
 	<key>franc</key>
 	<string>franc.glif</string>
+	<key>fullBlock</key>
+	<string>fullB_lock.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>gbreve</key>
@@ -526,6 +526,8 @@
 	<string>idieresis.glif</string>
 	<key>idotaccent</key>
 	<string>idotaccent.glif</string>
+	<key>idotless</key>
+	<string>idotless.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
 	<key>ij</key>
@@ -558,26 +560,56 @@
 	<string>lcommaaccent.glif</string>
 	<key>ldot</key>
 	<string>ldot.glif</string>
+	<key>leftBlock</key>
+	<string>leftB_lock.glif</string>
+	<key>leftFiveEighthsBlock</key>
+	<string>leftF_iveE_ighthsB_lock.glif</string>
+	<key>leftOneEighthBlock</key>
+	<string>leftO_neE_ighthB_lock.glif</string>
+	<key>leftOneQuarterBlock</key>
+	<string>leftO_neQ_uarterB_lock.glif</string>
+	<key>leftSevenEighthsBlock</key>
+	<string>leftS_evenE_ighthsB_lock.glif</string>
+	<key>leftThreeEighthsBlock</key>
+	<string>leftT_hreeE_ighthsB_lock.glif</string>
+	<key>leftThreeQuartersBlock</key>
+	<string>leftT_hreeQ_uartersB_lock.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>lessequal</key>
 	<string>lessequal.glif</string>
-	<key>lfblock</key>
-	<string>lfblock.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
+	<key>lowerFiveEighthsBlock</key>
+	<string>lowerF_iveE_ighthsB_lock.glif</string>
+	<key>lowerHalfBlock</key>
+	<string>lowerH_alfB_lock.glif</string>
+	<key>lowerLeftBlock</key>
+	<string>lowerL_eftB_lock.glif</string>
+	<key>lowerOneEighthBlock</key>
+	<string>lowerO_neE_ighthB_lock.glif</string>
+	<key>lowerOneQuarterBlock</key>
+	<string>lowerO_neQ_uarterB_lock.glif</string>
+	<key>lowerRightBlock</key>
+	<string>lowerR_ightB_lock.glif</string>
+	<key>lowerSevenEighthsBlock</key>
+	<string>lowerS_evenE_ighthsB_lock.glif</string>
+	<key>lowerThreeEighthsBlock</key>
+	<string>lowerT_hreeE_ighthsB_lock.glif</string>
+	<key>lowerThreeQuartersBlock</key>
+	<string>lowerT_hreeQ_uartersB_lock.glif</string>
 	<key>lozenge</key>
 	<string>lozenge.glif</string>
 	<key>lslash</key>
 	<string>lslash.glif</string>
-	<key>ltshade</key>
-	<string>ltshade.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
 	<key>macron.case</key>
 	<string>macron.case.glif</string>
+	<key>micro</key>
+	<string>micro.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>minute</key>
@@ -654,6 +686,8 @@
 	<string>parenright.glif</string>
 	<key>partialdiff</key>
 	<string>partialdiff.glif</string>
+	<key>pause</key>
+	<string>pause.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>period</key>
@@ -668,6 +702,8 @@
 	<string>perthousand.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
+	<key>play</key>
+	<string>play.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>plusminus</key>
@@ -708,6 +744,8 @@
 	<string>rcommaaccent.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
+	<key>rightOneEighthBlock</key>
+	<string>rightO_neE_ighthB_lock.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>ring.case</key>
@@ -734,8 +772,12 @@
 	<string>semicolon.alt.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
-	<key>shade</key>
-	<string>shade.glif</string>
+	<key>shadedark</key>
+	<string>shadedark.glif</string>
+	<key>shadelight</key>
+	<string>shadelight.glif</string>
+	<key>shademedium</key>
+	<string>shademedium.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>slash</key>
@@ -794,58 +836,28 @@
 	<string>umacron.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uni2581</key>
-	<string>uni2581.glif</string>
-	<key>uni2582</key>
-	<string>uni2582.glif</string>
-	<key>uni2583</key>
-	<string>uni2583.glif</string>
-	<key>uni2585</key>
-	<string>uni2585.glif</string>
-	<key>uni2586</key>
-	<string>uni2586.glif</string>
-	<key>uni2587</key>
-	<string>uni2587.glif</string>
-	<key>uni2589</key>
-	<string>uni2589.glif</string>
-	<key>uni258A</key>
-	<string>uni258A_.glif</string>
-	<key>uni258B</key>
-	<string>uni258B_.glif</string>
-	<key>uni258D</key>
-	<string>uni258D_.glif</string>
-	<key>uni258E</key>
-	<string>uni258E_.glif</string>
-	<key>uni258F</key>
-	<string>uni258F_.glif</string>
-	<key>uni2594</key>
-	<string>uni2594.glif</string>
-	<key>uni2595</key>
-	<string>uni2595.glif</string>
-	<key>uni2596</key>
-	<string>uni2596.glif</string>
-	<key>uni2597</key>
-	<string>uni2597.glif</string>
-	<key>uni2598</key>
-	<string>uni2598.glif</string>
-	<key>uni2599</key>
-	<string>uni2599.glif</string>
-	<key>uni259A</key>
-	<string>uni259A_.glif</string>
-	<key>uni259B</key>
-	<string>uni259B_.glif</string>
-	<key>uni259C</key>
-	<string>uni259C_.glif</string>
-	<key>uni259D</key>
-	<string>uni259D_.glif</string>
-	<key>uni259E</key>
-	<string>uni259E_.glif</string>
-	<key>uni259F</key>
-	<string>uni259F_.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
-	<key>upblock</key>
-	<string>upblock.glif</string>
+	<key>upperHalfBlock</key>
+	<string>upperH_alfB_lock.glif</string>
+	<key>upperLeftAndLowerLeftAndLowerRightBlock</key>
+	<string>upperL_eftA_ndL_owerL_eftA_ndL_owerR_ightB_lock.glif</string>
+	<key>upperLeftAndLowerRightBlock</key>
+	<string>upperL_eftA_ndL_owerR_ightB_lock.glif</string>
+	<key>upperLeftAndUpperRightAndLowerLeftBlock</key>
+	<string>upperL_eftA_ndU_pperR_ightA_ndL_owerL_eftB_lock.glif</string>
+	<key>upperLeftAndUpperRightAndLowerRightBlock</key>
+	<string>upperL_eftA_ndU_pperR_ightA_ndL_owerR_ightB_lock.glif</string>
+	<key>upperLeftBlock</key>
+	<string>upperL_eftB_lock.glif</string>
+	<key>upperOneEighthBlock</key>
+	<string>upperO_neE_ighthB_lock.glif</string>
+	<key>upperRightAndLowerLeftAndLowerRightBlock</key>
+	<string>upperR_ightA_ndL_owerL_eftA_ndL_owerR_ightB_lock.glif</string>
+	<key>upperRightAndLowerLeftBlock</key>
+	<string>upperR_ightA_ndL_owerL_eftB_lock.glif</string>
+	<key>upperRightBlock</key>
+	<string>upperR_ightB_lock.glif</string>
 	<key>uring</key>
 	<string>uring.glif</string>
 	<key>utilde</key>

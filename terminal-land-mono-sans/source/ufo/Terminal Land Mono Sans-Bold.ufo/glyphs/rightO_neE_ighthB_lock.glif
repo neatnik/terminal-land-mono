@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightOneEighthBlock" format="2">
+	<advance width="600"/>
+	<unicode hex="2595"/>
+	<note>
+		uni2595
+	</note>
+	<outline>
+		<component base="leftOneEighthBlock" xOffset="1114"/>
+	</outline>
+</glyph>

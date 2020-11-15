@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowerLeftBlock" format="2">
+	<advance width="600"/>
+	<unicode hex="2596"/>
+	<note>
+		uni2596
+	</note>
+	<outline>
+		<contour>
+			<point x="616" y="-512" type="line"/>
+			<point x="616" y="532" type="line"/>
+			<point x="-20" y="532" type="line"/>
+			<point x="-20" y="-512" type="line"/>
+		</contour>
+	</outline>
+</glyph>

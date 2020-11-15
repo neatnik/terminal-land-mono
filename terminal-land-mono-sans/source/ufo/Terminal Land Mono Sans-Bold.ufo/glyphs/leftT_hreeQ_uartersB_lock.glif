@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftThreeQuartersBlock" format="2">
+	<advance width="600"/>
+	<unicode hex="258A"/>
+	<note>
+		uni258A
+	</note>
+	<outline>
+		<contour>
+			<point x="934" y="-512" type="line"/>
+			<point x="934" y="1576" type="line"/>
+			<point x="-20" y="1576" type="line"/>
+			<point x="-20" y="-512" type="line"/>
+		</contour>
+	</outline>
+</glyph>

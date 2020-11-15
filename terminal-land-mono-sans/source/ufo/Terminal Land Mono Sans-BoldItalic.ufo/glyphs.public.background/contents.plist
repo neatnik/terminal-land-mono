@@ -70,6 +70,8 @@
 	<string>dcroat.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>divisionslash</key>
+	<string>divisionslash.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
 	<key>eight</key>
@@ -110,6 +112,8 @@
 	<string>m.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
+	<key>minute</key>
+	<string>minute.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upperLeftAndUpperRightAndLowerLeftBlock" format="2">
+	<advance width="1233"/>
+	<unicode hex="259B"/>
+	<note>
+		uni259B
+	</note>
+	<outline>
+		<component base="lowerLeftBlock"/>
+		<component base="lowerLeftBlock" yOffset="1044"/>
+		<component base="lowerLeftBlock" xOffset="637" yOffset="1044"/>
+	</outline>
+</glyph>

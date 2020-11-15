@@ -2,7 +2,7 @@
 <glyph name="idotaccent" format="2">
 	<advance width="1228"/>
 	<outline>
-		<component base="dotlessi"/>
+		<component base="idotless"/>
 		<component base="dotaccent" xOffset="4"/>
 	</outline>
 </glyph>

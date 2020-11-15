@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="play" format="2">
+	<advance width="1331"/>
+	<unicode hex="F04B"/>
+	<outline>
+		<contour>
+			<point x="1171" y="757" type="curve"/>
+			<point x="1171" y="757" type="line"/>
+			<point x="282" y="1282" type="line"/>
+			<point x="210" y="1325"/>
+			<point x="100" y="1284"/>
+			<point x="100" y="1178" type="curve"/>
+			<point x="100" y="127" type="line"/>
+			<point x="100" y="33"/>
+			<point x="202" y="-25"/>
+			<point x="282" y="23" type="curve"/>
+			<point x="1171" y="548" type="line"/>
+			<point x="1251" y="595"/>
+			<point x="1251" y="710"/>
+		</contour>
+	</outline>
+</glyph>

@@ -53,8 +53,6 @@
 	<string>https://neatnik.net</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeOS2Type</key>
-	<array/>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1600</integer>
 	<key>openTypeOS2TypoDescender</key>
