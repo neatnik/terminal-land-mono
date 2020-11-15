@@ -4389,9 +4389,8 @@ width = 1228;
 unicode = 0145;
 },
 {
-color = 3;
 glyphname = Eng;
-lastChange = "2014-11-23 03:14:43 +0000";
+lastChange = "2020-11-14 18:23:23 +0000";
 layers = (
 {
 background = {
@@ -29049,6 +29048,168 @@ width = 1228;
 unicode = 00A5;
 },
 {
+color = 8;
+glyphname = divisionslash;
+lastChange = "2020-11-14 07:42:07 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"968 1573 OFFCURVE",
+"938 1565 OFFCURVE",
+"928 1541 CURVE SMOOTH",
+"145 -308 LINE SMOOTH",
+"128 -348 OFFCURVE",
+"154 -387 OFFCURVE",
+"217 -387 CURVE SMOOTH",
+"255 -387 OFFCURVE",
+"285 -378 OFFCURVE",
+"295 -355 CURVE SMOOTH",
+"1078 1494 LINE SMOOTH",
+"1095 1535 OFFCURVE",
+"1069 1573 OFFCURVE",
+"1006 1573 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1092 1394 OFFCURVE",
+"1065 1385 OFFCURVE",
+"1052 1362 CURVE SMOOTH",
+"109 -276 LINE SMOOTH",
+"86 -315 OFFCURVE",
+"118 -355 OFFCURVE",
+"181 -355 CURVE SMOOTH",
+"219 -355 OFFCURVE",
+"246 -346 OFFCURVE",
+"259 -323 CURVE SMOOTH",
+"1202 1315 LINE SMOOTH",
+"1225 1354 OFFCURVE",
+"1193 1394 OFFCURVE",
+"1130 1394 CURVE SMOOTH"
+);
+}
+);
+};
+guideLines = (
+{
+position = "{1318, 1574}";
+},
+{
+position = "{880, -301}";
+},
+{
+angle = 71.6588;
+position = "{518, 348}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"968 1573 OFFCURVE",
+"938 1565 OFFCURVE",
+"928 1541 CURVE SMOOTH",
+"151 -308 LINE SMOOTH",
+"134 -348 OFFCURVE",
+"160 -387 OFFCURVE",
+"217 -387 CURVE SMOOTH",
+"255 -387 OFFCURVE",
+"285 -378 OFFCURVE",
+"295 -355 CURVE SMOOTH",
+"1073 1494 LINE",
+"1090 1535 OFFCURVE",
+"1065 1573 OFFCURVE",
+"1006 1573 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"1041 1399 OFFCURVE",
+"1011 1388 OFFCURVE",
+"998 1365 CURVE SMOOTH",
+"71 -243 LINE SMOOTH",
+"31 -312 OFFCURVE",
+"131 -360 OFFCURVE",
+"214 -360 CURVE SMOOTH",
+"258 -360 OFFCURVE",
+"287 -350 OFFCURVE",
+"300 -327 CURVE SMOOTH",
+"1227 1281 LINE SMOOTH",
+"1268 1352 OFFCURVE",
+"1169 1399 OFFCURVE",
+"1086 1399 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"935 1618 OFFCURVE",
+"902 1609 OFFCURVE",
+"892 1584 CURVE SMOOTH",
+"95 -315 LINE SMOOTH",
+"66 -385 OFFCURVE",
+"155 -432 OFFCURVE",
+"238 -432 CURVE SMOOTH",
+"282 -432 OFFCURVE",
+"314 -422 OFFCURVE",
+"324 -399 CURVE SMOOTH",
+"1121 1500 LINE SMOOTH",
+"1152 1574 OFFCURVE",
+"1063 1618 OFFCURVE",
+"980 1618 CURVE SMOOTH"
+);
+}
+);
+};
+guideLines = (
+{
+position = "{1111, 1585}";
+},
+{
+position = "{785, -297}";
+}
+);
+layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
+paths = (
+{
+closed = 1;
+nodes = (
+"935 1618 OFFCURVE",
+"902 1609 OFFCURVE",
+"892 1584 CURVE SMOOTH",
+"105 -315 LINE SMOOTH",
+"76 -385 OFFCURVE",
+"161 -432 OFFCURVE",
+"238 -432 CURVE SMOOTH",
+"282 -432 OFFCURVE",
+"314 -422 OFFCURVE",
+"324 -399 CURVE SMOOTH",
+"1111 1500 LINE SMOOTH",
+"1142 1574 OFFCURVE",
+"1057 1618 OFFCURVE",
+"980 1618 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+}
+);
+unicode = 2215;
+},
+{
 glyphname = plus;
 lastChange = "2014-11-14 05:20:53 +0000";
 layers = (
@@ -31423,6 +31584,32 @@ width = 1228;
 unicode = 2202;
 },
 {
+color = 8;
+glyphname = micro;
+lastChange = "2020-11-14 18:22:39 +0000";
+layers = (
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
+width = 1228;
+}
+);
+unicode = 00B5;
+},
+{
 glyphname = percent;
 lastChange = "2015-01-20 06:22:04 +0000";
 layers = (
@@ -32273,1981 +32460,6 @@ width = 1228;
 }
 );
 unicode = 2030;
-},
-{
-glyphname = uni2581;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 -251 LINE",
-"-20 -251 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\0121 0 11 \012CALL[ ]	/* CallFunction */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 -251 LINE",
-"-20 -251 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2581;
-unicode = 2581;
-},
-{
-glyphname = uni2582;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 10 LINE",
-"-20 10 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 10 LINE",
-"-20 10 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2582;
-unicode = 2582;
-},
-{
-glyphname = uni2583;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 271 LINE",
-"-20 271 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 271 LINE",
-"-20 271 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2583;
-unicode = 2583;
-},
-{
-glyphname = dnblock;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 532 LINE",
-"-20 532 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 532 LINE",
-"-20 532 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = dnblock;
-unicode = 2584;
-},
-{
-glyphname = uni2585;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 793 LINE",
-"-20 793 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 793 LINE",
-"-20 793 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2585;
-unicode = 2585;
-},
-{
-glyphname = uni2586;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 1054 LINE",
-"-20 1054 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 1054 LINE",
-"-20 1054 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2586;
-unicode = 2586;
-},
-{
-glyphname = uni2587;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 1315 LINE",
-"-20 1315 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 1315 LINE",
-"-20 1315 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2587;
-unicode = 2587;
-},
-{
-glyphname = block;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1253 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"1253 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = block;
-unicode = 2588;
-},
-{
-glyphname = upblock;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = dnblock;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = dnblock;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = upblock;
-unicode = 2580;
-},
-{
-glyphname = uni2594;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2581;
-transform = "{1, 0, 0, 1, 0, 1827}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2581;
-transform = "{1, 0, 0, 1, 0, 1827}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni2594;
-unicode = 2594;
-},
-{
-glyphname = uni258F;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"138 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"138 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0123 0 11 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"138 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"138 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni258F;
-unicode = 258F;
-},
-{
-glyphname = uni258E;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"298 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"298 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0123 0 11 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"298 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"298 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni258E;
-unicode = 258E;
-},
-{
-glyphname = uni258D;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"457 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"457 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0123 0 11 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"457 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"457 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni258D;
-unicode = 258D;
-},
-{
-glyphname = lfblock;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"616 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"616 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"616 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"616 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = lfblock;
-unicode = 258C;
-},
-{
-glyphname = uni258B;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"775 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"775 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"775 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"775 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni258B;
-unicode = 258B;
-},
-{
-glyphname = uni258A;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"934 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"934 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"934 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"934 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni258A;
-unicode = 258A;
-},
-{
-glyphname = uni2589;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1094 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"1094 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1094 1576 LINE",
-"-20 1576 LINE",
-"-20 -512 LINE",
-"1094 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2589;
-unicode = 2589;
-},
-{
-glyphname = uni2595;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni258F;
-transform = "{1, 0, 0, 1, 1114, 0}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni258F;
-transform = "{1, 0, 0, 1, 1114, 0}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni2595;
-unicode = 2595;
-},
-{
-glyphname = uni2596;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"616 532 LINE",
-"-20 532 LINE",
-"-20 -512 LINE",
-"616 -512 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"616 532 LINE",
-"-20 532 LINE",
-"-20 -512 LINE",
-"616 -512 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = uni2596;
-unicode = 2596;
-},
-{
-glyphname = uni2597;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni2597;
-unicode = 2597;
-},
-{
-glyphname = uni2598;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni2598;
-unicode = 2598;
-},
-{
-glyphname = uni2599;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni2599;
-unicode = 2599;
-},
-{
-glyphname = uni259A;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni259A;
-unicode = 259A;
-},
-{
-glyphname = uni259B;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni259B;
-unicode = 259B;
-},
-{
-glyphname = uni259C;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 0, 1044}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni259C;
-unicode = 259C;
-},
-{
-glyphname = uni259D;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni259D;
-unicode = 259D;
-},
-{
-glyphname = uni259E;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni259E;
-unicode = 259E;
-},
-{
-glyphname = uni259F;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = UUID0;
-width = 1233;
-},
-{
-components = (
-{
-name = uni2596;
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 0}";
-},
-{
-name = uni2596;
-transform = "{1, 0, 0, 1, 637, 1044}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
-}
-);
-note = uni259F;
-unicode = 259F;
-},
-{
-glyphname = ltshade;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"1094 -251 LINE",
-"934 -251 LINE",
-"934 -512 LINE",
-"1094 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 -251 LINE",
-"298 -251 LINE",
-"298 -512 LINE",
-"457 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 114 LINE",
-"616 114 LINE",
-"616 -147 LINE",
-"775 -147 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 114 LINE",
-"-20 114 LINE",
-"-20 -147 LINE",
-"138 -147 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 480 LINE",
-"934 480 LINE",
-"934 219 LINE",
-"1094 219 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 480 LINE",
-"298 480 LINE",
-"298 219 LINE",
-"457 219 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 845 LINE",
-"616 845 LINE",
-"616 584 LINE",
-"775 584 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 845 LINE",
-"-20 845 LINE",
-"-20 584 LINE",
-"138 584 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 1211 LINE",
-"934 1211 LINE",
-"934 950 LINE",
-"1094 950 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 1211 LINE",
-"298 1211 LINE",
-"298 950 LINE",
-"457 950 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 1576 LINE",
-"616 1576 LINE",
-"616 1315 LINE",
-"775 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 1576 LINE",
-"-20 1576 LINE",
-"-20 1315 LINE",
-"138 1315 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01215 12 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0127 4 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01211 8 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0123 0 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01216 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01220 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01222 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0128 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01226 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01232 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01234 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01238 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0128 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01240 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01242 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01246 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01249 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\0121 0 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01241 40 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0129 8 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01233 32 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01217 16 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01225 24 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0128 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01213 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01216 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01220 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01229 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01232 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01237 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01240 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01241 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDRP[10000]	/* MoveDirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"1094 -251 LINE",
-"934 -251 LINE",
-"934 -512 LINE",
-"1094 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 -251 LINE",
-"298 -251 LINE",
-"298 -512 LINE",
-"457 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 114 LINE",
-"616 114 LINE",
-"616 -147 LINE",
-"775 -147 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 114 LINE",
-"-20 114 LINE",
-"-20 -147 LINE",
-"138 -147 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 480 LINE",
-"934 480 LINE",
-"934 219 LINE",
-"1094 219 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 480 LINE",
-"298 480 LINE",
-"298 219 LINE",
-"457 219 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 845 LINE",
-"616 845 LINE",
-"616 584 LINE",
-"775 584 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 845 LINE",
-"-20 845 LINE",
-"-20 584 LINE",
-"138 584 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 1211 LINE",
-"934 1211 LINE",
-"934 950 LINE",
-"1094 950 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 1211 LINE",
-"298 1211 LINE",
-"298 950 LINE",
-"457 950 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 1576 LINE",
-"616 1576 LINE",
-"616 1315 LINE",
-"775 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 1576 LINE",
-"-20 1576 LINE",
-"-20 1315 LINE",
-"138 1315 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = ltshade;
-unicode = 2591;
-},
-{
-glyphname = shade;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"298 -512 LINE",
-"298 -251 LINE",
-"138 -251 LINE",
-"138 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 10 LINE",
-"-20 10 LINE",
-"-20 -251 LINE",
-"138 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"298 271 LINE",
-"138 271 LINE",
-"138 10 LINE",
-"298 10 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 532 LINE",
-"-20 532 LINE",
-"-20 271 LINE",
-"138 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"298 793 LINE",
-"138 793 LINE",
-"138 532 LINE",
-"298 532 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 1054 LINE",
-"-20 1054 LINE",
-"-20 793 LINE",
-"138 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"298 1315 LINE",
-"138 1315 LINE",
-"138 1054 LINE",
-"298 1054 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 1576 LINE",
-"-20 1576 LINE",
-"-20 1315 LINE",
-"138 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 -251 LINE",
-"616 -251 LINE",
-"616 -512 LINE",
-"457 -512 LINE",
-"457 -251 LINE",
-"457 10 LINE",
-"298 10 LINE",
-"298 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 271 LINE",
-"616 271 LINE",
-"616 10 LINE",
-"457 10 LINE",
-"457 271 LINE",
-"457 532 LINE",
-"298 532 LINE",
-"298 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 793 LINE",
-"616 793 LINE",
-"616 532 LINE",
-"457 532 LINE",
-"457 793 LINE",
-"457 1054 LINE",
-"298 1054 LINE",
-"298 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 1315 LINE",
-"616 1315 LINE",
-"616 1054 LINE",
-"457 1054 LINE",
-"457 1315 LINE",
-"457 1576 LINE",
-"298 1576 LINE",
-"298 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 -251 LINE",
-"934 -251 LINE",
-"934 -512 LINE",
-"775 -512 LINE",
-"775 -251 LINE",
-"775 10 LINE",
-"616 10 LINE",
-"616 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 271 LINE",
-"934 271 LINE",
-"934 10 LINE",
-"775 10 LINE",
-"775 271 LINE",
-"775 532 LINE",
-"616 532 LINE",
-"616 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 793 LINE",
-"934 793 LINE",
-"934 532 LINE",
-"775 532 LINE",
-"775 793 LINE",
-"775 1054 LINE",
-"616 1054 LINE",
-"616 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 1315 LINE",
-"934 1315 LINE",
-"934 1054 LINE",
-"775 1054 LINE",
-"775 1315 LINE",
-"775 1576 LINE",
-"616 1576 LINE",
-"616 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 -251 LINE",
-"1253 -251 LINE",
-"1253 -512 LINE",
-"1094 -512 LINE",
-"1094 -251 LINE",
-"1094 10 LINE",
-"934 10 LINE",
-"934 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 271 LINE",
-"1253 271 LINE",
-"1253 10 LINE",
-"1094 10 LINE",
-"1094 271 LINE",
-"1094 532 LINE",
-"934 532 LINE",
-"934 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 793 LINE",
-"1253 793 LINE",
-"1253 532 LINE",
-"1094 532 LINE",
-"1094 793 LINE",
-"1094 1054 LINE",
-"934 1054 LINE",
-"934 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 1315 LINE",
-"1253 1315 LINE",
-"1253 1054 LINE",
-"1094 1054 LINE",
-"1094 1315 LINE",
-"1094 1576 LINE",
-"934 1576 LINE",
-"934 1315 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0120 4 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01267 36 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01299 68 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0121 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0128 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01210 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01214 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01216 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01220 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01222 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01226 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01232 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01234 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01240 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01241 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01243 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01248 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01249 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01251 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01252 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01256 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01257 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01260 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01264 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01267 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01265 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01272 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01267 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01273 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01267 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01275 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01268 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01276 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01280 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01267 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01281 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01267 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01283 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01268 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01284 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01288 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01267 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01289 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01267 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01291 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01268 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01292 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01268 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01296 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01297 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012108 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012100 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01268 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012104 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012105 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01297 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012106 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012107 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01268 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012112 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012113 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01297 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012114 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012115 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012108 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012116 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01268 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012120 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012121 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01297 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012122 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012123 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012108 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01299 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012129 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\0121 2 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01230 25 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01212 5 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01222 17 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0128 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0129 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01211 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01220 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01214 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01216 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01219 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01227 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01232 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01235 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01237 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01238 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01240 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01241 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01243 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01246 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01247 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01248 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01249 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01251 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01252 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01253 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01220 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01254 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01255 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01256 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01260 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01261 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01262 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01263 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01264 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01265 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01267 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01269 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01270 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01271 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01272 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01273 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01275 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01276 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01277 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01278 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01279 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01280 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01281 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01283 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01284 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01285 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01220 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01286 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01287 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01288 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01291 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01292 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01293 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01294 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01295 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01296 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01297 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01299 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012101 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012102 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012103 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012104 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012105 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012107 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012108 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012109 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012110 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012111 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012112 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012113 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012115 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012116 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012117 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01220 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012118 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012119 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012120 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012123 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012125 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012127 \012MDRP[10000]	/* MoveDirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"298 -512 LINE",
-"298 -251 LINE",
-"138 -251 LINE",
-"138 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 10 LINE",
-"-20 10 LINE",
-"-20 -251 LINE",
-"138 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"298 271 LINE",
-"138 271 LINE",
-"138 10 LINE",
-"298 10 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 532 LINE",
-"-20 532 LINE",
-"-20 271 LINE",
-"138 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"298 793 LINE",
-"138 793 LINE",
-"138 532 LINE",
-"298 532 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 1054 LINE",
-"-20 1054 LINE",
-"-20 793 LINE",
-"138 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"298 1315 LINE",
-"138 1315 LINE",
-"138 1054 LINE",
-"298 1054 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"138 1576 LINE",
-"-20 1576 LINE",
-"-20 1315 LINE",
-"138 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 -251 LINE",
-"616 -251 LINE",
-"616 -512 LINE",
-"457 -512 LINE",
-"457 -251 LINE",
-"457 10 LINE",
-"298 10 LINE",
-"298 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 271 LINE",
-"616 271 LINE",
-"616 10 LINE",
-"457 10 LINE",
-"457 271 LINE",
-"457 532 LINE",
-"298 532 LINE",
-"298 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 793 LINE",
-"616 793 LINE",
-"616 532 LINE",
-"457 532 LINE",
-"457 793 LINE",
-"457 1054 LINE",
-"298 1054 LINE",
-"298 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 1315 LINE",
-"616 1315 LINE",
-"616 1054 LINE",
-"457 1054 LINE",
-"457 1315 LINE",
-"457 1576 LINE",
-"298 1576 LINE",
-"298 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 -251 LINE",
-"934 -251 LINE",
-"934 -512 LINE",
-"775 -512 LINE",
-"775 -251 LINE",
-"775 10 LINE",
-"616 10 LINE",
-"616 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 271 LINE",
-"934 271 LINE",
-"934 10 LINE",
-"775 10 LINE",
-"775 271 LINE",
-"775 532 LINE",
-"616 532 LINE",
-"616 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 793 LINE",
-"934 793 LINE",
-"934 532 LINE",
-"775 532 LINE",
-"775 793 LINE",
-"775 1054 LINE",
-"616 1054 LINE",
-"616 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 1315 LINE",
-"934 1315 LINE",
-"934 1054 LINE",
-"775 1054 LINE",
-"775 1315 LINE",
-"775 1576 LINE",
-"616 1576 LINE",
-"616 1315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 -251 LINE",
-"1253 -251 LINE",
-"1253 -512 LINE",
-"1094 -512 LINE",
-"1094 -251 LINE",
-"1094 10 LINE",
-"934 10 LINE",
-"934 -251 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 271 LINE",
-"1253 271 LINE",
-"1253 10 LINE",
-"1094 10 LINE",
-"1094 271 LINE",
-"1094 532 LINE",
-"934 532 LINE",
-"934 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 793 LINE",
-"1253 793 LINE",
-"1253 532 LINE",
-"1094 532 LINE",
-"1094 793 LINE",
-"1094 1054 LINE",
-"934 1054 LINE",
-"934 793 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 1315 LINE",
-"1253 1315 LINE",
-"1253 1054 LINE",
-"1094 1054 LINE",
-"1094 1315 LINE",
-"1094 1576 LINE",
-"934 1576 LINE",
-"934 1315 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = shade;
-unicode = 2592;
-},
-{
-glyphname = dkshade;
-lastChange = "2020-10-24 02:55:07 +0000";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"298 -251 LINE",
-"457 -251 LINE",
-"457 -512 LINE",
-"934 -512 LINE",
-"934 -251 LINE",
-"1094 -251 LINE",
-"1094 -512 LINE",
-"1253 -512 LINE",
-"1253 1576 LINE",
-"775 1576 LINE",
-"775 1315 LINE",
-"616 1315 LINE",
-"616 1576 LINE",
-"138 1576 LINE",
-"138 1315 LINE",
-"-20 1315 LINE",
-"-20 845 LINE",
-"138 845 LINE",
-"138 584 LINE",
-"-20 584 LINE",
-"-20 114 LINE",
-"138 114 LINE",
-"138 -147 LINE",
-"-20 -147 LINE",
-"-20 -512 LINE",
-"298 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 1211 LINE",
-"457 950 LINE",
-"298 950 LINE",
-"298 1211 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 1211 LINE",
-"1094 950 LINE",
-"934 950 LINE",
-"934 1211 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 845 LINE",
-"775 584 LINE",
-"616 584 LINE",
-"616 845 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 480 LINE",
-"457 219 LINE",
-"298 219 LINE",
-"298 480 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 480 LINE",
-"1094 219 LINE",
-"934 219 LINE",
-"934 480 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 114 LINE",
-"775 -147 LINE",
-"616 -147 LINE",
-"616 114 LINE"
-);
-}
-);
-userData = {
-assembly = "PUSHW[ ]	/* 1 value pushed */\0128 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01225 0 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01221 22 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0122 0 25 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0122 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0128 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01210 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01246 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\01215 22 21 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01215 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01216 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01226 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01227 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01231 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01246 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01234 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01235 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01238 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01242 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01243 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01247 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01216 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01251 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\0121 0 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01243 19 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01212 28 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0126 3 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01210 7 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01227 40 11 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01210 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01213 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01215 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01217 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01223 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01227 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01232 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01234 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01243 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01238 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01240 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0121 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01246 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01248 \012MDRP[10000]	/* MoveDirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
-};
-width = 1233;
-},
-{
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-paths = (
-{
-closed = 1;
-nodes = (
-"298 -251 LINE",
-"457 -251 LINE",
-"457 -512 LINE",
-"934 -512 LINE",
-"934 -251 LINE",
-"1094 -251 LINE",
-"1094 -512 LINE",
-"1253 -512 LINE",
-"1253 1576 LINE",
-"775 1576 LINE",
-"775 1315 LINE",
-"616 1315 LINE",
-"616 1576 LINE",
-"138 1576 LINE",
-"138 1315 LINE",
-"-20 1315 LINE",
-"-20 845 LINE",
-"138 845 LINE",
-"138 584 LINE",
-"-20 584 LINE",
-"-20 114 LINE",
-"138 114 LINE",
-"138 -147 LINE",
-"-20 -147 LINE",
-"-20 -512 LINE",
-"298 -512 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 1211 LINE",
-"457 950 LINE",
-"298 950 LINE",
-"298 1211 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 1211 LINE",
-"1094 950 LINE",
-"934 950 LINE",
-"934 1211 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 845 LINE",
-"775 584 LINE",
-"616 584 LINE",
-"616 845 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"457 480 LINE",
-"457 219 LINE",
-"298 219 LINE",
-"298 480 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1094 480 LINE",
-"1094 219 LINE",
-"934 219 LINE",
-"934 480 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"775 114 LINE",
-"775 -147 LINE",
-"616 -147 LINE",
-"616 114 LINE"
-);
-}
-);
-width = 600;
-}
-);
-note = dkshade;
-unicode = 2593;
 },
 {
 glyphname = lozenge;
@@ -35738,47 +33950,160 @@ width = 1228;
 unicode = 00B0;
 },
 {
+color = 8;
 glyphname = minute;
-lastChange = "2014-11-14 14:49:26 +0000";
+lastChange = "2020-11-14 07:41:01 +0000";
 layers = (
 {
-layerId = UUID0;
-width = 600;
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"776 1213 OFFCURVE",
+"757 1198 OFFCURVE",
+"736 1164 CURVE SMOOTH",
+"490 757 LINE SMOOTH",
+"477 735 OFFCURVE",
+"486 709 OFFCURVE",
+"505 694 CURVE SMOOTH",
+"524 679 OFFCURVE",
+"551 674 OFFCURVE",
+"568 694 CURVE SMOOTH",
+"904 1075 LINE SMOOTH",
+"923 1096 OFFCURVE",
+"919 1126 OFFCURVE",
+"850 1168 CURVE SMOOTH"
+);
 },
 {
+closed = 1;
+nodes = (
+"814 1213 OFFCURVE",
+"791 1199 OFFCURVE",
+"766 1164 CURVE SMOOTH",
+"478 757 LINE SMOOTH",
+"462 735 OFFCURVE",
+"466 709 OFFCURVE",
+"482 694 CURVE SMOOTH",
+"498 679 OFFCURVE",
+"525 673 OFFCURVE",
+"545 694 CURVE SMOOTH",
+"918 1075 LINE SMOOTH",
+"940 1097 OFFCURVE",
+"942 1126 OFFCURVE",
+"880 1168 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"819 1210 OFFCURVE",
+"793 1202 OFFCURVE",
+"766 1164 CURVE SMOOTH",
+"478 757 LINE SMOOTH",
+"462 735 OFFCURVE",
+"466 709 OFFCURVE",
+"482 694 CURVE SMOOTH",
+"498 679 OFFCURVE",
+"527 674 OFFCURVE",
+"548 695 CURVE SMOOTH",
+"912 1066 LINE SMOOTH",
+"944 1099 OFFCURVE",
+"941 1128 OFFCURVE",
+"880 1168 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"738 1219 OFFCURVE",
+"689 1206 OFFCURVE",
+"668 1164 CURVE SMOOTH",
+"467 758 LINE SMOOTH",
+"450 723 OFFCURVE",
+"465 697 OFFCURVE",
+"507 680 CURVE SMOOTH",
+"550 663 OFFCURVE",
+"586 669 OFFCURVE",
+"609 694 CURVE SMOOTH",
+"950 1075 LINE SMOOTH",
+"974 1102 OFFCURVE",
+"961 1152 OFFCURVE",
+"851 1185 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"788 1219 OFFCURVE",
+"734 1205 OFFCURVE",
+"708 1164 CURVE SMOOTH",
+"455 758 LINE SMOOTH",
+"433 722 OFFCURVE",
+"442 697 OFFCURVE",
+"482 680 CURVE SMOOTH",
+"521 663 OFFCURVE",
+"560 668 OFFCURVE",
+"586 694 CURVE SMOOTH",
+"974 1075 LINE SMOOTH",
+"1002 1103 OFFCURVE",
+"999 1152 OFFCURVE",
+"895 1185 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
 }
 );
 unicode = 2032;
 },
 {
+color = 8;
 glyphname = second;
-lastChange = "2014-11-14 14:49:26 +0000";
+lastChange = "2020-11-14 07:41:01 +0000";
 layers = (
 {
 components = (
 {
 name = minute;
+transform = "{1, 0, -0.03491, 1, -164, 0}";
 },
 {
 name = minute;
+transform = "{1, 0, 0.01746, 1, 190, 0}";
 }
 );
 layerId = UUID0;
-width = 600;
+width = 1228;
 },
 {
 components = (
 {
 name = minute;
+transform = "{1, 0, -0.06982, 1, -156, 0}";
 },
 {
 name = minute;
+transform = "{1, 0, 0.03491, 1, 181, 0}";
 }
 );
 layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 600;
+width = 1228;
 }
 );
 unicode = 2033;
@@ -35839,6 +34164,41 @@ width = 1228;
 }
 );
 unicode = 007C;
+},
+{
+color = 11;
+glyphname = bar.double;
+lastChange = "2020-11-14 07:41:36 +0000";
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -400, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
+width = 1228;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -400, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = UUID0;
+width = 1228;
+}
+);
 },
 {
 glyphname = brokenbar;
@@ -36156,42 +34516,6 @@ width = 1228;
 }
 );
 unicode = 2021;
-},
-{
-color = 11;
-export = 0;
-glyphname = bar.double;
-lastChange = "2014-11-23 15:02:55 +0000";
-layers = (
-{
-components = (
-{
-name = bar;
-transform = "{1, 0, 0, 1, -400, 0}";
-},
-{
-name = bar;
-transform = "{1, 0, 0, 1, 400, 0}";
-}
-);
-layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
-width = 1228;
-},
-{
-components = (
-{
-name = bar;
-transform = "{1, 0, 0, 1, -400, 0}";
-},
-{
-name = bar;
-transform = "{1, 0, 0, 1, 400, 0}";
-}
-);
-layerId = UUID0;
-width = 1228;
-}
-);
 },
 {
 glyphname = commaaccent;
