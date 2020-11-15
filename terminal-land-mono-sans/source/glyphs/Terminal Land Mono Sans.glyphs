@@ -11064,7 +11064,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dotaccent;
@@ -11077,7 +11077,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dotaccent;
@@ -11091,8 +11091,8 @@ width = 1228;
 unicode = 0069;
 },
 {
-glyphname = dotlessi;
-lastChange = "2015-01-09 06:10:16 +0000";
+glyphname = idotless;
+lastChange = "2020-11-15 05:17:25 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -11182,7 +11182,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = acute;
@@ -11194,7 +11194,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = acute;
@@ -11214,7 +11214,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = breve;
@@ -11227,7 +11227,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = breve;
@@ -11247,7 +11247,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = circumflex;
@@ -11259,7 +11259,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = circumflex;
@@ -11278,7 +11278,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dieresis;
@@ -11290,7 +11290,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dieresis;
@@ -11310,7 +11310,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dotaccent;
@@ -11323,7 +11323,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dotaccent;
@@ -11342,7 +11342,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = grave;
@@ -11355,7 +11355,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = grave;
@@ -11592,7 +11592,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = macron;
@@ -11605,7 +11605,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = macron;
@@ -11659,7 +11659,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = tilde;
@@ -11672,7 +11672,7 @@ width = 1228;
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = tilde;
@@ -28764,6 +28764,32 @@ width = 1228;
 }
 );
 unicode = 2202;
+},
+{
+color = 8;
+glyphname = micro;
+lastChange = "2020-11-15 05:15:26 +0000";
+layers = (
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+width = 1228;
+}
+);
+unicode = 00B5;
 },
 {
 glyphname = percent;

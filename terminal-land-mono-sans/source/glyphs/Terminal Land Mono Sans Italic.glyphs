@@ -12155,7 +12155,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dotaccent;
@@ -12233,7 +12233,7 @@ nodes = (
 };
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dotaccent;
@@ -12247,8 +12247,8 @@ width = 1228;
 unicode = 0069;
 },
 {
-glyphname = dotlessi;
-lastChange = "2015-01-13 16:37:05 +0000";
+glyphname = idotless;
+lastChange = "2020-11-15 05:16:45 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -12356,7 +12356,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = acute;
@@ -12389,7 +12389,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = breve;
@@ -12422,7 +12422,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = circumflex;
@@ -12455,7 +12455,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dieresis;
@@ -12488,7 +12488,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = dotaccent;
@@ -12520,7 +12520,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = grave;
@@ -12754,7 +12754,7 @@ layers = (
 {
 components = (
 {
-name = dotlessi;
+name = idotless;
 },
 {
 name = macron;
@@ -12825,7 +12825,7 @@ name = tilde;
 transform = "{1, 0, 0, 1, -100, 0}";
 },
 {
-name = dotlessi;
+name = idotless;
 }
 );
 layerId = UUID0;
