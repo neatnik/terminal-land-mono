@@ -22,11 +22,6 @@ name = vendorID;
 value = NEAT;
 },
 {
-name = fsType;
-value = (
-);
-},
-{
 name = isFixedPitch;
 value = 1;
 },

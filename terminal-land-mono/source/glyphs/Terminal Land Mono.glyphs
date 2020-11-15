@@ -30,11 +30,6 @@ name = "Enforce Compatibility Check";
 value = 1;
 },
 {
-name = fsType;
-value = (
-);
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 }

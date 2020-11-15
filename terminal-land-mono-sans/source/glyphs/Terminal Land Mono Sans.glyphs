@@ -24,6 +24,14 @@ value = NEAT;
 {
 name = isFixedPitch;
 value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2020-10-22 17:46:52 +0000";

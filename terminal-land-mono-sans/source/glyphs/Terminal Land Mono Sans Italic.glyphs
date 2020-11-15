@@ -10,12 +10,12 @@ name = Uppercase;
 copyright = "Copyright © 2020 Neatnik LLC";
 customParameters = (
 {
-name = licenseURL;
-value = "https://scripts.sil.org/OFL";
-},
-{
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -23,6 +23,14 @@ value = NEAT;
 },
 {
 name = isFixedPitch;
+value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
 value = 1;
 }
 );
